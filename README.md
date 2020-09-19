@@ -1,6 +1,6 @@
 # MCounter
 
-A simple counter utility that lives in the MacOS menu bar.
+A simple counter utility that lives in the macOS menu bar.
 
 ## Features
 
@@ -14,7 +14,7 @@ I said it was simple 🙂
 ## Installation
 
 Download the latest `.dmg` file from the
-[Releases](https://github.com/mnxn/MCounter/releases), open it and drag the app
+[Releases](https://github.com/mnxn/MCounter/releases), open it, and drag the app
 into the `Applications` folder.
 
 I haven't paid the yearly fee to be part of "Apple Developer Program" which
