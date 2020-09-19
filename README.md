@@ -13,9 +13,14 @@ I said it was simple 🙂
 
 ## Installation
 
-Download the latest `.app` file from the
-[Releases](https://github.com/mnxn/MCounter/releases) and drag it into your
-`Applications` folder.
+Download the latest `.dmg` file from the
+[Releases](https://github.com/mnxn/MCounter/releases), open it and drag the app
+into the `Applications` folder.
+
+I haven't paid the yearly fee to be part of "Apple Developer Program" which
+results in a scary message when trying to open the app. If you receive the
+warning message, you must go to
+`System Preference > Security & Privacy > General` and click `Open Anyway`.
 
 ## Launching the app on login
 
