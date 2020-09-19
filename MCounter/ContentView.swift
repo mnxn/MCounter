@@ -15,8 +15,8 @@ struct ContentView: View {
             ).buttonStyle(SquareButtonStyle())
 
             TextField("", text: $counter.textValue)
-                .font(.system(size:16))
-                .padding(4)
+                .font(.system(size: 16, weight: .regular, design: .monospaced))
+                .padding(3)
                 .multilineTextAlignment(.center)
                 .textFieldStyle(PlainTextFieldStyle())
 
